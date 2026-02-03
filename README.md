@@ -14,7 +14,7 @@ frameworks, serving as a central place to explore my work and background.
 
 ## Live Website
 
-> https://username.github.io/portfolio
+> https://ayush935.github.io/Portfolio/
 
 ---
 
